@@ -20,10 +20,21 @@ I like turning ideas into simple tools people actually use.
 
 ### 🤖 Tech Stack
 
-**Languages:** Java, Python, JavaScript  
-**Web:** HTML, CSS, React, Next.js  
-**Tools:** Git, GitHub, VS Code, basic SQL, command line  
-**Interests:** AI-assisted development, data-driven apps, productivity and self-improvement tools
+**Programming Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+
+**Web Dev:**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+
 
 ---
 
