@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm Ubay 👋
 
-<!--
-**Ubayx23/ubayx23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS @ San Diego State University  
+📕 Early stage builder  
+💻 Aspiring Software Developer and AI driven product builder  
 
-Here are some ideas to get you started:
+I like turning ideas into simple tools people actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💭 Currently Learning
+
+- Databases and backend fundamentals (SQL, APIs, auth)
+- Better frontend architecture with React / Next.js
+- AI-assisted development and basic ML concepts
+
+---
+
+---
+
+### 🤖 Tech Stack
+
+**Languages:** Java, Python, JavaScript  
+**Web:** HTML, CSS, React, Next.js  
+**Tools:** Git, GitHub, VS Code, basic SQL, command line  
+**Interests:** AI-assisted development, data-driven apps, productivity and self-improvement tools
+
+---
+
+### 🌱 What I’m Looking For
+
+- Summer 2026 internships or research positions in software, AI, or data  
+- Chances to work on real problems with a small, focused team  
+- Opportunities to grow as a builder by shipping useful things, not just writing theory
+
+---
+
+### 📫 Connect
+
+- Email: ubaycool3@gmail.com
