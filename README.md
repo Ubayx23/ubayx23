@@ -40,7 +40,7 @@ I like shipping simple tools that actually get used stuff around productivity, s
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ubayx23&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ubayx23&theme=dark)](https://git.io/streak-stats)
 
 ---
 
