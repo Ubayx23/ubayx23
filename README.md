@@ -38,12 +38,6 @@ I like shipping simple tools that actually get used stuff around productivity, s
 
 ---
 
-### 📊 GitHub Stats
-
-![Ubay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ubayx23&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect with Me
 
 - [Email](mailto:ubaycool3@gmail.com)
