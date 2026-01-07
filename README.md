@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Ubaydulla!)](https://git.io/typing-svg)
 ### 🎓 CS @ San Diego State University<br/>
-### 📕 First-Gen EOPOS Student & Builder<br/>
 ### 💻 Aspiring Software Developer & AI-Driven Product Maker<br/>
 
 I like shipping simple tools that actually get used stuff around productivity, self improvement, and helping students figure out their path in tech. Most of my learning comes from building in public, breaking things, and fixing them.
@@ -32,9 +31,8 @@ I like shipping simple tools that actually get used stuff around productivity, s
 
 ### 💡 Beyond Class
 
-- First-generation student in SDSU’s EOPOS program  
 - Actively building small web apps and tools around self-improvement and student success  
-- Interested in AI, data-driven products, and early-stage startups
+- Interested in AI, data-driven products, and early stage startups
 
 ---
 
