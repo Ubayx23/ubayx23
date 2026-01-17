@@ -1,10 +1,19 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋+I'm+Ubaydulla!)](https://git.io/typing-svg)
-### 🎓 CS @ San Diego State University<br/>
-### 💻 Aspiring Software Developer & AI-Driven Product Maker<br/>
+🎓 Computer Science @ San Diego State University  
+💻 Software Developer interested in applied systems & data-driven products  
 
-I like shipping simple tools that actually get used stuff around productivity, self improvement, and helping students figure out their path in tech. Most of my learning comes from building in public, breaking things, and fixing them.
+I build simple, practical tools and projects as a way to learn by doing.  
+Most of my experience comes from **shipping small projects**, iterating on them, and improving my fundamentals through hands-on work rather than theory alone.
 
-**💭 Currently Learning:** Databases (SQL), backend fundamentals, React / Next.js, AI-assisted development
+I’m especially interested in how software, data, and emerging AI tools can be applied to **real-world problems**, including education, productivity, and impact-driven domains.
+
+---
+
+### 🔍 Current Focus
+- Strengthening backend fundamentals and data handling  
+- Writing cleaner, more maintainable code  
+- Exploring applied uses of Python and data processing  
+- Learning how real systems are built and deployed
 
 ---
 
@@ -29,12 +38,23 @@ I like shipping simple tools that actually get used stuff around productivity, s
 
 ---
 
-### 💡 Beyond Class
-
-- Actively building small web apps and tools around self-improvement and student success  
-- Interested in AI, data-driven products, and early stage startups
-
+### 🌱 What I’m Looking For
+Opportunities where I can:
+- Contribute to meaningful, real-world projects  
+- Learn from engineers and researchers  
+- Apply and deepen my technical skills in practical settings
+  
 ---
+
+### 🧪 Projects & Work
+Most repositories here represent:
+- Coursework extensions
+- Independent experiments
+- Early-stage tools built to learn core concepts
+
+I value **clarity, iteration, and learning in public** over polished but shallow demos.
+
+--
 
 ### 📫 Connect with Me
 
