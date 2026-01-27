@@ -58,6 +58,6 @@ I value **clarity, iteration, and learning in public** over polished but shallow
 
 ### 📫 Connect with Me
 
-- [Email](mailto:ubaycool3@gmail.com)
+- [Email](mailto:ubaydullanoorullah@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ubaydulla-noorullah-526994276/)
 
