@@ -10,7 +10,6 @@
 - **[wrrapd](https://wrrapd.app)** · Free two-minute lessons for overthinkers · Next.js, TypeScript, Tailwind, Framer Motion
 - **[Synced](https://synced.page)** · iOS training planner for climbers and lifters, in beta · Swift, SwiftUI, Supabase
 - **[ConnectClients](https://www.goconnectclients.com)** · Web agency I co-founded · client sites and Python CRM tools
-- **SyllabiFlow** · Team project that syncs exam dates to Google Calendar · Python, Flask, SQLite
 
 ---
 
